@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace UnityUtils.Editor
 {
-    public class SceneAndProjectSaver : MonoBehaviour
+    public class SceneAndProjectSaver
     {
         [MenuItem("File/Save Scene And Project %#&s")]
         private static void SaveSceneAndProject()
